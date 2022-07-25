@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x: hidden;
+}
+.header{
+   
+    width: auto;
+    height: 87px;
+    background-color: #2e2e38;
+      position: relative;
+     display: flex;
+        position: sticky;
+        top: -2px;
+        z-index: 100;
+}
+
+.headertable{
+    color: #fffbee;
+    padding-left: 20px;
+    margin-top: 30px;
+    display: flex;
+    font-family: sans-serif;;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    float: left;
+   
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    width: 50%;
+
+}
+.text{
+    margin-left: 50px;
+    
+    width: max-content;
+}
+.headertext{
+    float: left;
+    
+     height: 30px;
+    width:50%;
+      position: absolute;
+      bottom: 20px;
+    margin-left: 511px;
+    display: flex;
+    
+   
+}
+.text1{
+    margin-left: 60px;
+}
+
+.borderline{
+    height: 10px;
+    width: auto;
+    background-color: black
+   
+}
+.backgroundimage{
+    position: relative;
+   
+  
+}
+.innertext{
+    
+    
+     margin-top: 0;
+     position: relative;
+     bottom: 300px;
+     left: 70px;
+}
+.innertext1{
+    color: #fffbee;
+     font-family: sans-serif;
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 48px;
+    line-height: 60px;
+
+
+}
+.background{
+    width: auto;
+    height: 500px;
+    background-color: aqua;
+}
+.body2{
+    width: auto;
+    height: 700px;
+    background-color:#2e2e38;
+    position: relative;
+    
+}
+.bodytext1{
+    margin-left: 67px;
+    
+    padding-top: 30px;
+}
+.bt1{
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 40px;
+    
+
+}
+.body3{
+    position: relative;
+    /* background-color: blue;*/
+     width: 100%;
+     height: 700px;
+     padding-top: 50px;
+     padding-left: 50px;
+    
+
+  
+}
+.b31{
+    color: #2e2e38;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 47px;
+}
+.bodyimages{
+    display: flex;
+}
+.body3t:hover {
+   display:inline-block;
+   
+   border-bottom: 1px solid black;
+}
+
+
+
+
+.body3t {
+      
+    color:black;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    margin-left: 8px;
+
+}
+.body3t2{
+    color: #2e2e38;
+  
+   
+}
+a{
+    text-decoration: none;
+}
+.span1:hover{
+    border-bottom: 1px solid black;
+}
+.picturetext{
+    width: 100%;
+    
+      
+      height: auto;
+      width: auto;
+    display: flex;
+   
+}
+.graybox{
+    width: 650px;
+    height: 500px;
+    background-color:#2e2e38;
+    margin-left: 50px;
+    position: relative;
+ 
+
+}
+
+ .graytext{
+    width: 600px;
+    height: 350px;
+   
+    margin-bottom: 30px;
+}
+.graytext1{
+    color: yellow;
+    font-size: 30px;
+    font-style: normal;
+    font-family: sans-serif;
+    margin: 145px;
+}
+.graytext2{
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+     margin-left: 60px;
+  
+     margin-top: -157px;
+
+}
+.tb{
+    color: black;
+    position: absolute;
+      bottom: 40px;
+      left: 30px;
+}
+.buttontext{
+    position: absolute;
+    bottom: 120px;
+    left: 170px;
+    background-color:#2e2e38;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+  
+}
+.buttontext:hover{
+    background-color: #fffbee;
+    color: black;
+}
+.conclusion{
+    width: 100%;
+   height: 300px;
+   background-color:#1a1a24;
+   position: relative;
+}
+.conclusion1{
+    width: 50%;
+    height: 300px;
+ 
+    position: relative;
+
+}
+.cont1{
+    width: max-content;
+    height: max-content;
+    
+    color: #fffbee;
+    font-size: 45px;
+     
+      position:absolute;
+      top: 90px;
+      left: 217px;
+}
+.buttonsearch{
+    position: absolute;
+    top: 350px;
+    left:45px ;
+   
+
+}
+.conclusion2{
+    position: absolute;
+    bottom: 1px;
+    left: 60%;
+ 
+}
+  a{
+    text-decoration: none;
+    color: white;
+  }
